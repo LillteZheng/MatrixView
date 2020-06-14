@@ -1,0 +1,3 @@
+include ':matrixlib'
+include ':app'
+rootProject.name = "MatrixView"

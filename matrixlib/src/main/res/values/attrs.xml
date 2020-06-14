@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MatrixView">
+        <attr name="mv_res" format="reference"/>
+        <attr name="mv_circle_size" format="dimension"/>
+        <attr name="mv_out_color" format="color"/>
+        <attr name="mv_line_type">
+            <enum name="stroke" value="1"/>
+            <enum name="fill" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
